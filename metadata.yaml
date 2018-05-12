@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6137
     wikipedia: http://en.wikipedia.org/wiki/F._Anstey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39045#Mr-Punch-s-Model-Music-Hall-Songs-and-DramasCollected-Improved-and-Re-arranged-from-Punch
 gutenberg_issued: '2012-03-04'
 gutenberg_type: Text
 identifiers:
